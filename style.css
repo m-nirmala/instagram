@@ -201,6 +201,10 @@ section{
     margin-left: .5rem; 
 }
 
+.post-container .post-caption p{
+    margin-top: .2rem;
+}
+
 .post-container .post-caption .post-comment img{
     width: 1.5rem;
     height: 1.5rem;
@@ -506,6 +510,8 @@ section{
         width: 100%; 
         overflow: hidden;  
     }
+
+    
 
     .head-nav {
         display: flex;
