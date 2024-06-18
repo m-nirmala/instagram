@@ -291,7 +291,7 @@ body {
      } 
 }
 
-@media  (max-width: 395px) {
+@media  (max-width: 412px) {
     .profile{
         width: 80%;
         margin-left: 1rem;

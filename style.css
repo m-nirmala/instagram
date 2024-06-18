@@ -494,7 +494,7 @@ section{
     
 
      section {
-        padding: 2rem 1rem;  
+        padding: 2rem 0;  
         background-color: #fafafa;
         display: flex;
         justify-content: space-between;
